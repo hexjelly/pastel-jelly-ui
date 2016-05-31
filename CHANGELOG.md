@@ -1,9 +1,19 @@
 # Changelog
 
-## [0.0.1] - 31.05.2016
-### Changed
-- Adjusted some base colors, first proper working release.
+## \[0.0.2\] 01.06.2016
 
-## [0.0.0] - 31.05.2016
+### Changed
+
+    - Change tree view and tab colors.
+
+## \[0.0.1\] 31.05.2016
+
+### Changed
+
+    - Adjusted some base colors, first proper working release.
+
+## \[0.0.0\] 31.05.2016
+
 ### Added
-- First test release.
+
+    - First test release.
