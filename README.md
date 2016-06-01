@@ -2,6 +2,6 @@
 
 UI theme for Atom with pastel colors and dark background.
 
-# Credit
+## Credit
 
 Code based on the default Atom UI theme [Atom Dark UI](https://github.com/atom/atom-dark-ui)

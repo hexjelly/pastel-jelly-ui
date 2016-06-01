@@ -45,7 +45,7 @@
     border: none;
 
     &, &:before, &:after {
-      background-image: -webkit-linear-gradient(top, lighten(@dark-gray, 5%), @gray);
+      background-image: -webkit-linear-gradient(top, lighten(@dark-gray, 5%), @dark-gray);
       height: @tab-height;
     }
 
@@ -100,6 +100,7 @@
       position: relative;
       z-index: 1;
       padding-right: 10px;
+      border-top: 1px solid @tab-border-color;
     }
   }
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.0.3\] 01.06.2016
+
+### Fixed
+
+    - Tab border-top fixed.
+
 ## \[0.0.2\] 01.06.2016
 
 ### Changed
