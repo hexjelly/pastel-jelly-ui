@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.1.0\] 02.06.2016
+
+### Changed
+
+    - Bump first public release.
+
 ## \[0.0.4\] 02.06.2016
 
 ### Changed
