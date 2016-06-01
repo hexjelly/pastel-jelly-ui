@@ -29,16 +29,16 @@
 @text-color-modified: @text-color-warning;
 @text-color-removed: @text-color-error;
 
-@background-color-info: #0098ff;
+@background-color-info: @pastel-blue;
 @background-color-success: @pastel-green;
-@background-color-warning: #ffaa2c;
+@background-color-warning: @pastel-yellow;
 @background-color-error: @strong-red;
-@background-color-highlight: rgba(255, 255, 255, 0.07);
+@background-color-highlight: rgba(255, 255, 255, 0.02);
 @background-color-selected: lighten(@dark-gray, 10%);
 
 @app-background-color: @dark-gray;
 
-@base-background-color: lighten(@tool-panel-background-color, 5%);
+@base-background-color: @dark-gray;
 @base-border-color: rgba(0, 0, 0, 0.5);
 
 @pane-item-background-color: @base-background-color;
@@ -47,7 +47,7 @@
 @input-background-color: #212224;
 @input-border-color: @base-border-color;
 
-@tool-panel-background-color: #1d1f21;
+@tool-panel-background-color: @dark-gray;
 @tool-panel-border-color: @base-border-color;
 
 @inset-panel-background-color: #161719;
@@ -76,11 +76,11 @@
 @scrollbar-background-color: lighten(@dark-gray, 5%);
 @scrollbar-color: @gray;
 
-@ui-site-color-1: @background-color-success; // green
-@ui-site-color-2: @background-color-info; // blue
-@ui-site-color-3: @background-color-warning; // orange
-@ui-site-color-4: #db2ff4; // purple
-@ui-site-color-5: #f5e11d; // yellow
+@ui-site-color-1: @background-color-success;
+@ui-site-color-2: @background-color-info;
+@ui-site-color-3: @background-color-warning;
+@ui-site-color-4: @pastel-purple;
+@ui-site-color-5: @pastel-yellow;
 
 // Sizes
 @font-size: 12px;

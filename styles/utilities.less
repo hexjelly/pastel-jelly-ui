@@ -16,6 +16,10 @@
 }
 
 .badge {
-  .text(highlight);
-  background: @background-color-highlight;
+  &.badge-info, &.badge-success, &.badge-warning, &.badge-error {
+    color: black;
+  }
+  //.text(highlight);
+  //color: black;
+  //background: @background-color-highlight;
 }

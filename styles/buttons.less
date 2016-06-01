@@ -34,20 +34,43 @@
   .btn-background(@button-background-color, @button-background-color-hover, @button-background-color-selected, @text-color);
 }
 
+.colored-buttons (@text-color) {
+  text-shadow: none;
+  color: @text-color;
+
+  &:focus {
+    color: @text-color;
+  }
+
+  &:hover {
+    color: @text-color;
+  }
+
+  &.selected,
+  &.selected:hover {
+    color: @text-color;
+  }
+}
+
 .btn.btn-primary {
   .btn-variant(@background-color-info);
+  .colored-buttons(black);
 }
 .btn.btn-info {
   .btn-variant(@background-color-info);
+  .colored-buttons(black);
 }
 .btn.btn-success {
   .btn-variant(@background-color-success);
+  .colored-buttons(black);
 }
 .btn.btn-warning {
   .btn-variant(@background-color-warning);
+  .colored-buttons(black);
 }
 .btn.btn-error {
   .btn-variant(@background-color-error);
+  .colored-buttons(black);
 }
 
 .caret {

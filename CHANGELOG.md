@@ -1,5 +1,13 @@
 # Changelog
 
+## \[0.0.4\] 01.06.2016
+
+### Fixed
+
+    - Button colors adjusted.
+    - Badge colors adjusted.
+    - Small fixes for other variables.
+
 ## \[0.0.3\] 01.06.2016
 
 ### Fixed
