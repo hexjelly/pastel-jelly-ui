@@ -1,12 +1,14 @@
 # Changelog
 
-## \[0.0.4\] 01.06.2016
+## \[0.0.4\] 02.06.2016
 
-### Fixed
+### Changed
 
     - Button colors adjusted.
     - Badge colors adjusted.
     - Small fixes for other variables.
+    - Adjust panel background color.
+    - Adjust scrollbar look.
 
 ## \[0.0.3\] 01.06.2016
 
