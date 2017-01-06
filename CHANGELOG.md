@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.2.0\] 06.01.2017
+
+### Changed
+
+    - Tab look reworked. Sorry for those who use this theme and hate it. 
+
 ## \[0.1.0\] 02.06.2016
 
 ### Changed
