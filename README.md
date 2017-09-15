@@ -1,5 +1,7 @@
 # pastel-jelly-ui
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hexjelly/pastel-jelly-ui.svg)](https://greenkeeper.io/)
+
 Dark gray UI theme for Atom with pastel colors.
 
 [atom.io](https://atom.io/themes/pastel-jelly-ui)
